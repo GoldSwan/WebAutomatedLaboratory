@@ -9,17 +9,21 @@
 ## TO DO LIST
 
 - 네이버 블로그 시스템 중 일부를 자동화
+- Request시 웹 자동화 작업을 비동기적으로 진행
+- 자동화 작업은 언제든 취소가 가능
+- 자동화 작업에 대한 로그를 저장하여 작업 추적 가능
 
 ## 데모(Demo)
 
 ## 사용 예정 기술
 
 - [Front-End]
-    - Vue.js
+    - Vue 3
 
 - [Back-End]
     - Java 1.11
     - Spring Boot
+    - Selenium
 
 - [Database]
     - PostgreSQL
